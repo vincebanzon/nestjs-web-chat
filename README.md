@@ -29,7 +29,10 @@
 ## Installation
 
 ```bash
+$ npm install @nestjs/websockets @nestjs/platform-socket.io
+$ nest g resource messages
 $ npm install
+
 ```
 
 ## Running the app
